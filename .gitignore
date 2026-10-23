@@ -34,3 +34,5 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.userprefs
+.vs/
+src/.vs/Portable.Licensing/FileContentIndex/3365ed97-93ae-427f-a5fd-a62626d88b20.vsidx
