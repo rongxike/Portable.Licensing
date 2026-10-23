@@ -1,0 +1,15 @@
+<Project>
+
+  <!-- Shared assembly metadata for all projects under src/ (replaces the linked CommonAssemblyInfo.cs). -->
+  <PropertyGroup>
+    <Company>Nauck IT KG</Company>
+    <Product>Portable.Licensing</Product>
+    <Authors>Nauck IT KG</Authors>
+    <Copyright>Copyright © 2012 - 2014 Nauck IT KG</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+</Project>

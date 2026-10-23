@@ -167,7 +167,7 @@ namespace Portable.Licensing
         /// <summary>
         /// Gets or sets the expiration date of this <see cref="License"/>.
         /// Use this property to set the expiration date for a trial license
-        /// or the expiration of support & subscription updates for a standard license.
+        /// or the expiration of support &amp; subscription updates for a standard license.
         /// </summary>
         public DateTime Expiration
         {

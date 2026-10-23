@@ -8,11 +8,11 @@ Portable.Licensing is a cross platform software licensing framework which allows
 
 Portable.Licensing is using the latest military strength, state-of-the-art cryptographic algorithm to ensure that your software and thus your intellectual property is protected.
 
-It is targeting the *Portable Class Library* and thus runs on nearly every .NET/Mono profile including Silverlight, Windows Phone, Windows Store App, Xamarin.iOS, Xamarin.Android, Xamarin.Mac and XBox 360. Use it for your Desktop- (WinForms, WPF, etc.), Console-, Service-, Web- (ASP.NET, MVC, etc.), Mobile (Xamarin.iOS, Xamarin.Android) or even LightSwitch applications.
+It targets *.NET 10* and runs on every supported platform. Use it for your Desktop- (WinForms, WPF, etc.), Console-, Service- or Web- (ASP.NET Core, etc.) applications.
 
 ## Features ##
 
-- runs on .NET >= 4.0.3, Silverlight 5, Windows Phone >= 8, Windows Store Apps, Mono, Xamarin.iOS, Xamarin.Android, Xamarin.Mac, XBox 360
+- runs on .NET 10
 - easy creation and validation of your licenses
 - trial, standard and subscription licenses
 - cryptographic signed licenses, no alteration possible
@@ -25,8 +25,7 @@ It is targeting the *Portable Class Library* and thus runs on nearly every .NET/
 ## Build status
 
 | Platform | Status of last build |
-| :------ | :------: | :------: |
-| **Mono** | [![Travis build status](https://travis-ci.org/dnauck/Portable.Licensing.svg)](https://travis-ci.org/dnauck/Portable.Licensing) |
+| :------ | :------: |
 | **Windows** | [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/ybwy7l9ooue3apqc/branch/devel?svg=true)](https://ci.appveyor.com/project/dnauck/portable-licensing) |
 
 ----------
